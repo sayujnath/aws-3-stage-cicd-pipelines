@@ -1,7 +1,7 @@
 ## Objective
 Create CICD pipelines with three stages for multiple environments as per diagram below:  
 
-![cicd pipelines](cicd-pipelines)
+![cicd pipelines](cicd-pipelines.jpg)
 
 ## Prerequisites
 | Requirement | Description |
